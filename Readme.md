@@ -4,20 +4,20 @@
 
 
 ## Projects
-# Banking Program: 
+## Banking Program: 
 - A console-based application to simulate basic banking operations like deposits, withdrawals, and balance checks.
 
-# Basic Calculator Program: 
+## Basic Calculator Program: 
 - A simple calculator that performs arithmetic operations like addition, subtraction, multiplication, and division.
 
-# Rock Paper Scissor Game: 
+## Rock Paper Scissor Game: 
 - A fun and interactive game where the user plays against the computer in a classic rock-paper-scissors match.
 
-# Shopping Cart: 
+## Shopping Cart: 
 - A simulation of an online shopping cart that allows users to add, remove, and view items, along with calculating the total cost.
 
-# Basic Alarm Clock: 
+## Basic Alarm Clock: 
 - A simple alarm clock application that allows users to set and trigger alarms at specified times.
 
-# Countdown Timer: 
+## Countdown Timer: 
 - A timer that counts down from a user-defined time and alerts the user when the time is up.
